@@ -2,6 +2,12 @@
 
 ### PyInstaller Executable Release (For Security Issues, You Can Self-Build It)
 
+- Version
+
+```python
+Developed Under "Python=3.12"
+```
+
 - Required Package
 
 ```python
