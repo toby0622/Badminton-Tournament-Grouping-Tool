@@ -1,1 +1,1 @@
-# Badminton-Grouping-Tool
+# Badminton-Tournament-Grouping-Tool
